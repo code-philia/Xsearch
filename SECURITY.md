@@ -9,7 +9,6 @@ Currently, security updates are provided for the following versions:
 | Version | Supported          |
 | ------- | ------------------ |
 | `main`  | :white_check_mark: |
-| < 1.0   | :x:                |
 
 *(Note: You can update this table as your project releases specific version tags.)*
 
